@@ -1,9 +1,6 @@
 # Periods_Library
 clsPeriod is a C++ class that represents a date range using a start and end date. It provides methods to calculate the period length, check if dates fall within the range, detect overlaps with other periods, and count overlapping days.
 
-# Period library
-# clsPeriod - Date Period Utility Class
-
 ## Overview
 
 The **clsPeriod** class is a utility class in C++ designed to handle operations related to a period between two dates. It depends on the **clsDate** class and provides features like:
